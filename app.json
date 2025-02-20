@@ -24,17 +24,17 @@
     },
     "TELECHARGER_AUTO_STATUS": {
       "description": "le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value": "oui",
+      "value": "non",
       "required": false
     },
     "NOM_BOT": {
       "description": "Un nom pour votre bot",
-      "value": "Zokou-MD",
+      "value": "Mike-MD",
       "required": false
     },
     "LIENS_MENU": {
       "description": "Ajoutez un ou plusieurs lien(s) d'image ou de video pour votre bot ; exemple : lien1,lien2,lien3......\n Ou mettre le nom d'un THEME parmis les themes disponibles",
-      "value": "LUFFY",
+      "value": "MIKE",
       "required": false
     },
     "PM_PERMIT": {
@@ -62,18 +62,18 @@
     },
     "SESSION_ID": {
       "description": "veuillez renseigner votre id de session",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0VSMVRBeHNwKzc4emNsNzNuWkExUzNYRGFtUzJhS01hN2d0VnA5blEwdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK3Z1dEYyNE4vdmdVdmJITzVqRmlZTjVmck9Gd1pNdHgxMHpaNUlVTk5nWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzTGhmU1MxNkc5NlpKa0pTZVV3SC9SbHNTcVBiSWROaE5MbzNyc1piSzBjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjRFFNcjFuUlNIZ0V0MThoeHRuTVVQQTlMTU9SZ2FRY2pzTmZGaUpjT1hVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllJRFkyNldRNzRhbDh2T0ZNQW03Rk9MWkFENC9GNzUwaWhOdEtIL0hOSFU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjNKTDFDTHdUWmYvOGMzNjByaStrSW45dEpIdWliY08rMWV3VmRyUWw3Qlk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK0lFNGtFbi9MU21LaFh4R2hYblZDV3RiZHNVd0xkSnZTZ0xBeS9UMWEzaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieFlVdWh4aGJuektZTWo5SDRBcTFva00xeGVVZlRncWM4cmFVaXFYY0FqWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNlYmN2RmdKNXpqZGdNc04rVXNkcWZnc2VNb3dvazFCMDRPOVcrSVpyY2NHZnA2alZDdlgrMHY0R1pBR09VYXMwSFZUaVF0a21aV0FYbENKTE1QR2pRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTksImFkdlNlY3JldEtleSI6IlBFaitFekVFQlc5bGFkUTFtanRCSnZOMkpGVFJNS0QyRlQzbUpjNGt6TkU9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjoxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJMMUFQS1lRViIsIm1lIjp7ImlkIjoiNTA5NDc2Mjk2MTE6NDlAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiTUlLRSDwnZCT8J2Qg/CdkIDigKDigKHigrkifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BiUnpQNERFSVQyMnIwR0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkZ1NTRPdWgzVm9iNHlsd0tyaTVSMFQwdC93MjlmWjBtSjlodlAvRlVuZ0U9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlIzYWEwbEJHYm8rYTM1cVl0dzFPalpxRWxTUld2MHhaeHdaUEpyS283QlA3NzJBaGdzTzZPQS9iL1FlSTIrK0IxczVpUG1jVThhREkwRzkzTTlyMkRRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJCYTNDTUgwNlIxSWFLWDhHZWkrTzRPRVlxQSt2STJYOEhaWU5UL0RrNjB6b01iZUU2YzlYNUVyMHlieXRIam5ZbVd5WlJGTGhqdFJ5VTlSSGhabGxoQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjUwOTQ3NjI5NjExOjQ5QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlJidWVEcm9kMWFHK01wY0NxNHVVZEU5TGY4TnZYMmRKaWZZYnoveFZKNEIifX1dLCJwbGF0Zm9ybSI6InNtYmEifQ==",
       "required": true
     },
     "NOM_OWNER": {
       "description": "Votre nom",
       "required": false,
-      "value": "Djalega++"
+      "value": "MIKE_TECH509"
     },
     "NUMERO_OWNER": {
       "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
       "required": false,
-      "value": "22891733300"
+      "value": "50947629611"
     },
     "WARN_COUNT": {
       "description": "il s'agit de nombre d'avertissement limite",
@@ -88,7 +88,7 @@
     "ANTI_VUE_UNIQUE": {
       "description": "Mettez oui si vous voulez que le contenue des message en vue unique vous sois envoyez en pv",
       "required": false,
-      "value": "non"
+      "value": "OUI"
     },
     "PM_CHATBOT": {
       "description": "Mettez oui si vous voulez que les message que le bot reponde automatiquement aux messages en pv",
